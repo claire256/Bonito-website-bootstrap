@@ -4,9 +4,10 @@ p{
 .image{
     width:100%;
 }
-.content{
+.wrapper{
     width:65%;
 }
+
 *{
     padding: 0px;
     margin: 0px;
@@ -34,3 +35,18 @@ h5{
 a.nav-link{
     color: white;
 }
+.content{
+    width:80%;
+}
+.shop{
+    width: 100%;
+}
+h4{
+    margin-left: 80px;
+}
+.box{
+    width:80%;
+    text-align: center;
+
+}
+
