@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+button{
+    background-color: rgb(0, 195, 255);
+    padding: 5px;
+}
+h6{
+    text-align: center;
+}
+img{
+    width:100% ;
+}
+.images img{
+    width: 100%;
+} 
+h1{
+    color: black;
+}
+h5{
+    color: black;
+}
+a.nav-link{
+    color: white;
+}
