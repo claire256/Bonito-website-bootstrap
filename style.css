@@ -8,11 +8,7 @@ button{
     padding: 5px;
 }
 h6{
-     /* margin-left: 50px;  */
-     width: 90%;
-     /* margin-right: 50px; */
-     display: flex;
-     justify-content: center;
+    text-align: center;
 }
 img{
     width:100% ;
@@ -25,4 +21,7 @@ h1{
 }
 h5{
     color: black;
+}
+a.nav-link{
+    color: white;
 }
